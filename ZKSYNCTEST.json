@@ -1,0 +1,141 @@
+{
+  "name": "zkSync Testnet Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/5951ff2ffce624191d883ab19857b9f97f405b2a/zk-sync-logo.svg",
+  "keywords": ["zk", "zkSync", "tokens"],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "USD Coin (goerli)",
+      "address": "0x0faf6df7054946141266420b43783387a78d82a9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/usdc.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x3e7676937a7e96cfb7616f255b9ad9ff47363d4b",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/dai.png"
+    },
+    {
+      "name": "wBTC",
+      "address": "0x0bfce1d53451b4a8175dd94e6e029f7d8a701e9c",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/wBTC.png"
+    },
+    {
+      "name": "ChainLink Token (goerli)",
+      "address": "0x40609141db628beee3bfab8034fc2d8278d0cc78",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/link.png"
+    },
+    {
+      "name": "Deflating Test Token",
+      "address": "0x2da10a1e27bf85cedd8ffb1abbe97e53391c0295",
+      "symbol": "DTT",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/5951ff2ffce624191d883ab19857b9f97f405b2a/dtt.svg"
+    },
+    {
+      "name": "Frax",
+      "address": "0xb4fbfb7807c31268dc1ac8c26fa4ef41115d0ece",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/frax.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xfced12debc831d3a84931c63687c395837d42c2b",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/usdt.png"
+    },
+    {
+      "name": "Smooth Love Potion",
+      "address": "0xf1bb8cc684287cfae3292f1ccfbcfd9c6206d25d",
+      "symbol": "SLP",
+      "decimals": 0,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/slp.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "address": "0x0c7811ba1ce9f63246bacd97847f9d5a987e421b",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/crv.png"
+    },
+    {
+      "name": "Syncswap Testnet Token",
+      "address": "0x26c78bd5901f57da8aa5cf060ab2116d26906b5e",
+      "symbol": "TEST",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/test.png"
+    },
+    {
+      "name": "Matter Labs Trial Token",
+      "address": "0x21d09a612a00cc8e07113cd75101b3365c43d82d",
+      "symbol": "MLTT",
+      "decimals": 10,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/5951ff2ffce624191d883ab19857b9f97f405b2a/mltt.svg"
+    },
+    {
+      "name": "Shiba Inu",
+      "address": "0x52cd904b5ca0aab368c070155f608d1f0d1e47b2",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/shib.png"
+    },
+    {
+      "name": "renBTC",
+      "address": "0xd546b90b6d44aee7e58af7e5ec103ed410366d9b",
+      "symbol": "renBTC",
+      "decimals": 8,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/renBTC.png"
+    },
+    {
+      "name": "Lido Staked Ether",
+      "address": "0x5cb6ac4358c077efff57d638c458c9b4f4d06511",
+      "symbol": "stETH",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/stETH.png"
+    },
+    {
+      "name": "Aave",
+      "address": "0x9d29342309534095ac442fe5d255b3252aa770b5",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/aave.png"
+    },
+    {
+      "name": "Maker",
+      "address": "0x32a50ccc2d287d934ee9f76916dc252f983c52e2",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/MKR.png"
+    }
+  ]
+}
