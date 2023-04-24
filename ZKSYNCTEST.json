@@ -10,6 +10,14 @@
   "timestamp": "2023-02-27T20:37:00.000+00:00",
   "tokens": [
     {
+      "name": "Wrapped Ether",
+      "address": "0x20b28b1e4665fff290650586ad76e977eab90c5d",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 280,
+      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/main/wrappedETH.png"
+    },
+    {
       "name": "USD Coin (goerli)",
       "address": "0x0faf6df7054946141266420b43783387a78d82a9",
       "symbol": "USDC",
