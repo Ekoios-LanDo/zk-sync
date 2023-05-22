@@ -55,7 +55,7 @@
       "symbol": "DTT",
       "decimals": 18,
       "chainId": 280,
-      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/5951ff2ffce624191d883ab19857b9f97f405b2a/dtt.svg"
+      "logoURI": ""
     },
     {
       "name": "Frax",
@@ -103,7 +103,7 @@
       "symbol": "MLTT",
       "decimals": 10,
       "chainId": 280,
-      "logoURI": "https://raw.githubusercontent.com/Ekoios-LanDo/zk-sync/5951ff2ffce624191d883ab19857b9f97f405b2a/mltt.svg"
+      "logoURI": ""
     },
     {
       "name": "Shiba Inu",
